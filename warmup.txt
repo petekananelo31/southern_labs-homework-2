@@ -1,0 +1,12 @@
+BEGIN
+     INPUT enter_age
+     IF 
+        age >= 18
+     THEN
+
+     DISPLAY WELCOME to southern labs!
+
+     ELSE
+         DISPLAY Access Denied!
+     ENDIF
+END
